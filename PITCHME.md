@@ -1,4 +1,25 @@
-# Let's Get Started
+### **GIS Personal**
+
+
+#### **Alejandro Rivero Borrell Donath**
+
+#### _borrellalex@gmail.com_
+
+
+___
+
+#### Como aprender GIS:
+
+- Cursos, manuales, tutoriales
+- Práctica:
+	- Un sistema operativo en disco con las aplicaciones precargadas
+	- Software abierto
+	- Poder usarlo sin instalación
+	- Poder instalar una entorno especializado en GIS
+	- Facilidad de borrar, reinstalar, reconfigurar...
+	
+- ¿Como?
+	- Fundación OSGeo
 
 ---
 
