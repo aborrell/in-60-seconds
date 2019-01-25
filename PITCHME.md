@@ -1,14 +1,14 @@
-### **GIS Personal**
+#### **GIS Personal**
 
 
-#### **Alejandro Rivero Borrell Donath**
+**Alejandro Rivero Borrell Donath**
 
-#### _borrellalex@gmail.com_
+_borrellalex@gmail.com_
 
 
 ___
 
-#### Como aprender GIS:
+##### Como aprender GIS:
 
 - Cursos, manuales, tutoriales
 - Práctica:
