@@ -6,7 +6,7 @@
   box-shadow:0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
 }
 
-.headline h2 {
+.headline h4 {
   color: white;
   letter-spacing: 0.05em;
   font-variant: small-caps;
@@ -19,7 +19,7 @@
 }
 
 .reveal a {
-  color: white;
+  color: lightyellow;
 }
 
 .reveal a:hover {
